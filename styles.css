@@ -1,10 +1,17 @@
 /*  your css code here. If applicable */
-#box{
+.box{
 	width:200px;
 	height:200px;
 	background-color:lightblue;
-	text-align:center;
+	color:purple;
 	background-position:center;
-	border="1"
+	border:2px solid black;
+	line-height: 200px;
+	text-align:center;	
+}
+.text{
+	display:inline-block;
+	vertical-align: middle;
+}
 	
 }
